@@ -3,6 +3,10 @@ Geração de imagens com IA focado principalmente em Stable Diffusion e ferramen
 
 A **Parte 1: Básico sobre Stable Diffusion** é onde você entende o motor principal. Aqui entra o conceito de modelos de difusão: a IA começa com ruído aleatório e vai “limpando” esse ruído até formar uma imagem coerente. Você aprende coisas como *sampling steps*, *CFG scale*, seeds e checkpoints. Sem isso, você até gera imagem, mas fica no modo “tentativa e erro”.
 
+```sh
+!pip install diffusers==0.11.1
+```
+
 A **Parte 2: Engenharia de prompts** é onde muita gente subestima, mas é o que mais muda resultado. Prompt não é só descrever imagem, é estruturar contexto: estilo, iluminação, lente, artista, composição, qualidade. Aqui você aprende a controlar a IA com linguagem — praticamente programar sem código. Um prompt ruim gera imagem genérica; um bom prompt gera algo profissional.
 
 Na **Parte 3: Treinamento personalizado**, você sai do modelo genérico e começa a adaptar a IA. Isso inclui técnicas como LoRA, DreamBooth ou fine-tuning. Na prática, você ensina a IA a reconhecer **um rosto específico, um estilo próprio ou até um produto**. Isso é o que empresas usam pra branding, avatar, moda, etc.
