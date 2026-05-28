@@ -1,4 +1,4 @@
-# Image generation
+# 🖼 Image generation
 Geração de imagens com IA focado principalmente em Stable Diffusion e ferramentas associadas. Vou te explicar cada parte de forma direta, mas conectando com o que realmente importa na prática.
 
 A **Parte 1: Básico sobre Stable Diffusion** é onde você entende o motor principal. Aqui entra o conceito de modelos de difusão: a IA começa com ruído aleatório e vai “limpando” esse ruído até formar uma imagem coerente. Você aprende coisas como *sampling steps*, *CFG scale*, seeds e checkpoints. Sem isso, você até gera imagem, mas fica no modo “tentativa e erro”.
