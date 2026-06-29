@@ -62,6 +62,8 @@ isso é um slide/infográfico sobre uma ferramenta matemática usada para **reco
 
 Se quiser, posso te explicar isso com uma analogia bem mais prática (tipo como se fosse um raio-X ou sombra), que fica ainda mais fácil de entender.
 
+<img width="720" height="723" alt="Screenshot_20240321-225053_Instagram" src="https://github.com/user-attachments/assets/d791ba6a-1db7-4fc9-a3c8-74abf0392aa0" />
+
 # 🤗 Diffusers
 “Diffusers” pode significar duas coisas dependendo do contexto, mas na prática moderna de IA quase sempre se refere à biblioteca da Hugging Face chamada **Diffusers**, que é um framework open-source para construir, treinar e usar modelos de difusão.
 
